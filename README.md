@@ -6,7 +6,9 @@ Sales management has gained importance to meet increasing competition and the ne
 
 # 🛠 Technologies Used
 Excel
+
 Power BI 
+
 Tableau 
 
 
@@ -25,4 +27,5 @@ The main goal of the project is to find key metrics and factors and then show me
  Data Visualization   : Plotted graphs to get insights about dependent and independent variables. Also used Tableau and PowerBI for data visulization.
  
  # 📉 Dashboard
+ c:\Users\Hariom\Desktop\Dataset Project\GitHub-Project\Amazon Sales Data Analysis\Screenshot of project\Screenshot 2024-04-25 232514.png
  
