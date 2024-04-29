@@ -27,5 +27,6 @@ The main goal of the project is to find key metrics and factors and then show me
  Data Visualization   : Plotted graphs to get insights about dependent and independent variables. Also used Tableau and PowerBI for data visulization.
  
  # 📉 Dashboard
- c:\Users\Hariom\Desktop\Dataset Project\GitHub-Project\Amazon Sales Data Analysis\Screenshot of project\Screenshot 2024-04-25 232514.png
+ ![Screenshot 2024-04-25 232514](https://github.com/harrry9/Amazon-Sales-Data-Analysis/assets/72757104/2e4a6ce2-8624-4d8f-9a11-4b5172c56e8f)
+
  
